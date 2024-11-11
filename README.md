@@ -7,7 +7,7 @@ My first repository
 ## Why I Love this series
 - **The characters**: Rick Grimes and his companions.
 - **The survival**: Finding the shelter to avoid zombies and mercernaries.
-- **The background**: It's a great landscape mountains.
+- **The background**: It's a great landscape mountains and forests.
 
 ## Favorite Seasons:
 - Season 2 where they accept that there is not cure or vaccine thats why they title it "We are the end of the world".
